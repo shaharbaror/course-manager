@@ -1,0 +1,13 @@
+.input {
+    transform: rotate(-90deg);
+    width: 10rem;
+    height: 150px;
+    margin-top: 5%;
+}
+
+label {
+    position: absolute;
+    margin-left: 3%;
+    margin-top: -1%;
+}
+
